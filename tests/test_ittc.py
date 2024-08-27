@@ -2,7 +2,6 @@ from src.ittaxcode_pinuxone import ittc as cf
 
 
 def test():
-
     assert cf.check(
         "PPPNNNLMBMQLMMTA"
     )
